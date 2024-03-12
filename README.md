@@ -3,8 +3,7 @@
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📫 How to reach me **akbaralya7n@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive]([https://drive.google.com/drive/my-drive](https://www.canva.com/design/DAF8YXIea5M/Kso4jPwhhAInKvjiegyxjg/view?utm_content=DAF8YXIea5M&utm_campaign=designshare&utm_medium=link&utm_source=editor))
-
+- 📄 Know about my experiences https://www.canva.com/design/DAF8YXIea5M/Kso4jPwhhAInKvjiegyxjg/view?utm_content=DAF8YXIea5M&utm_campaign=designshare&utm_medium=link&utm_source=editor
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imakbar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imakbar15" height="30" width="40" /></a>
